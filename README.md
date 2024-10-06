@@ -105,38 +105,4 @@ The technologies that we have used in making this project are :
  
  
   <br>
-  
-  
-### Contributors <img src ="https://www.flaticon.com/svg/static/icons/svg/2917/2917641.svg" width="25px">
-  
-  
-  <table>
-  <tr>
-    <td align="center"><a href="https://github.com/shsarv"><img src="https://avatars2.githubusercontent.com/u/55739302?s=400&u=1e7714cb1cbe3437a527a877486c94611f0e7ab0&v=4" width="100px;" alt=""/><br /><sub><b>Sarvesh Kumar Sharma</b></sub></a><br /><a href="#" title="Content">🖋</a> <a href="https://github.com/shsarv/TravelYaari/commits?author=shsarv" title="Documentation">📖</a><a href="https://github.com/shsarv/TravelYaari/commits?author=shsarv" title="Code">💻</a></td>
-   <td align="center"><a href="https://github.com/satyamjha1710"><img src="https://avatars1.githubusercontent.com/u/61418608?s=400&v=4" width="100px;" alt=""/><br /><sub><b>Satyam Kumar jha</b></sub></a><br /><a href="https://github.com/shsarv/TravelYaari/commits?author=satyamjha1710" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/sachi42"><img src="https://media-exp1.licdn.com/dms/image/C4E03AQG284gqwDcwKw/profile-displayphoto-shrink_800_800/0?e=1613001600&v=beta&t=ciyzyUV9JqxwQfIqCH8Q1j_VyDKbfnTWz4CAp6h-1ko" width="100px;" alt=""/><br /><sub><b>Sachi Tripathi</b></sub></a><br /><a href="https://github.com/shsarv/TravelYaari/commits?author=sachi42" title="Code">💻</a></td> 
-   <tr>
-    <table>
-     
-   
-  <br>
-  
-### License    <img src ="https://www.flaticon.com/svg/static/icons/svg/3076/3076368.svg" width="20px">
-  
-    * Apache-2.0 License copyright &copy; 2020 Sarvesh Kumar Sharma
-  
-  <br>
-  
-      
-### References   <img src ="https://www.flaticon.com/svg/static/icons/svg/2806/2806879.svg" width="20px">
-  
-  <table>
-  <tr>
-    <td align="center">
-  <a href="https://github.com/pankkap"><img src="https://avatars2.githubusercontent.com/u/29678994?s=460&v=4" width="80px;" alt=""/><br /><sub><b>Pankaj Kapoor</b></sub></a></td>
-   <td align="center">
-  <a href="https://www.beta-labs.in/"><img src="resources/beta-labs.jpg" width="80px;" alt=""/><br /><sub><b>BETA-LABS</b></sub></a></td>
- </tr>
- </table>
-  
-  
+
